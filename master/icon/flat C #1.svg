@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg21205"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="flat C #1.svg">
+  <defs
+     id="defs21199" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.138311"
+     inkscape:cx="-1367.1286"
+     inkscape:cy="284.46275"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g25722"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata21202">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g25722">
+      <g
+         id="g26148"
+         transform="translate(260.16248,-353.89749)">
+        <rect
+           ry="30.205254"
+           y="459.00998"
+           x="-199.53773"
+           height="95.192314"
+           width="95.192314"
+           id="rect26104"
+           style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <g
+           transform="translate(-2.4717794,-5.0658986)"
+           id="g26139">
+          <g
+             id="g26128"
+             transform="translate(0.86597175,10.701901)">
+            <path
+               sodipodi:nodetypes="ccc"
+               inkscape:connector-curvature="0"
+               id="rect26121"
+               d="m -127.7854,466.45304 c 0,17.34721 -8.88647,47.29786 -47.29786,47.29786 0,-50.64078 -0.17464,-47.29786 47.29786,-47.29786 z"
+               style="opacity:1;fill:#ffffff;fill-opacity:0.92932865;fill-rule:nonzero;stroke:none;stroke-width:1.83840537;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <path
+               style="opacity:1;fill:#ffff00;fill-opacity:0.92932865;fill-rule:nonzero;stroke:none;stroke-width:1.83840537;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               d="m -130.02459,525.35543 c 0,-17.34721 -8.88647,-47.29786 -47.29786,-47.29786 0,50.64078 -0.17464,47.29786 47.29786,47.29786 z"
+               id="path26124"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Levenim MT';-inkscape-font-specification:'Levenim MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="-179.57907"
+             y="546.0434"
+             id="text26132"><tspan
+               sodipodi:role="line"
+               id="tspan26130"
+               x="-179.57907"
+               y="546.0434"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Levenim MT';-inkscape-font-specification:'Levenim MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332px">Chamomile</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
