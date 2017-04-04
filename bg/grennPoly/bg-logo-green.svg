@@ -120,8 +120,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.6445855"
-     inkscape:cx="464.96745"
-     inkscape:cy="67.166229"
+     inkscape:cx="142.76433"
+     inkscape:cy="195.93115"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -135,7 +135,8 @@
   <g
      inkscape:export-ydpi="300"
      inkscape:export-xdpi="300"
-     id="g5350">
+     id="g5350"
+     transform="translate(-671.21101,4.8527374)">
     <rect
        y="-64.584137"
        x="611.47961"
@@ -208,7 +209,7 @@
                transform="matrix(0.81047837,0,0,0.81047837,71.061546,17.682373)"
                id="g4777">
               <ellipse
-                 transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)"
+                 transform="rotate(-135)"
                  ry="8.6197195"
                  rx="16.441736"
                  style="fill:#ffffff;fill-opacity:0.86476871;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -223,7 +224,7 @@
                  cx="358.51044"
                  cy="71.075432" />
               <ellipse
-                 transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)"
+                 transform="rotate(-135)"
                  cy="214.87332"
                  cx="-298.94745"
                  id="ellipse4775"
@@ -244,7 +245,7 @@
                  style="fill:#ffffff;fill-opacity:0.86476871;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  rx="16.441736"
                  ry="8.6197195"
-                 transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)" />
+                 transform="rotate(135)" />
               <ellipse
                  ry="8.6197195"
                  rx="16.441736"
@@ -252,9 +253,9 @@
                  id="ellipse4361"
                  cx="-198.43158"
                  cy="-315.38916"
-                 transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)" />
+                 transform="rotate(135)" />
               <ellipse
-                 transform="matrix(0,-1,1,0,0,0)"
+                 transform="rotate(-90)"
                  cy="374.95218"
                  cx="-87.517166"
                  id="ellipse4367"
@@ -262,7 +263,7 @@
                  rx="16.441736"
                  ry="8.744236" />
               <ellipse
-                 transform="matrix(0,-1,1,0,0,0)"
+                 transform="rotate(-90)"
                  ry="8.744236"
                  rx="16.441736"
                  style="fill:#ffffff;fill-opacity:0.86476871;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -320,7 +321,7 @@
            id="g5285">
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Levenim MT';-inkscape-font-specification:'Levenim MT, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Levenim MT';-inkscape-font-specification:'Levenim MT, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="685.15265"
              y="137.31007"
              id="text5111"><tspan
@@ -328,11 +329,11 @@
                id="tspan5113"
                x="685.15265"
                y="137.31007"
-               style="font-size:22.34250069px;line-height:1.25;fill:#ffffff;">TeaLinuxOS</tspan></text>
+               style="font-size:22.34250069px;line-height:1.25;fill:#ffffff">TeaLinuxOS</tspan></text>
           <g
              id="g5276">
             <g
-               transform="matrix(0.91100921,0.41238601,-0.41238601,0.91100921,476.78994,-129.97751)"
+               transform="rotate(24.354809,539.55482,1039.7407)"
                id="g5119" />
             <g
                transform="matrix(0.24913772,-0.61543317,0.67833186,0.22541326,569.0922,303.61972)"
