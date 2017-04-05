@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="300mm"
-   height="300mm"
-   viewBox="0 0 300 300"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
    version="1.1"
    id="svg13327"
    inkscape:version="0.92.1 unknown"
-   sodipodi:docname="flat transparant.svg">
+   sodipodi:docname="bg.svg">
   <defs
      id="defs13321">
     <filter
@@ -92,22 +92,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-<<<<<<< HEAD:bg/flatTransparant/bg.svg
      inkscape:zoom="0.35355339"
      inkscape:cx="458.14481"
      inkscape:cy="-2362.6781"
-=======
-     inkscape:zoom="0.35000001"
-     inkscape:cx="53.68678"
-     inkscape:cy="-896.93893"
->>>>>>> 5d3cd2e97044301319110f51c48de7e9459fddd8:bg/flat transparant.svg
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1360"
-     inkscape:window-height="719"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      showguides="true"
@@ -120,18 +114,17 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,3)">
+     id="layer1">
     <g
        id="g21047"
-       transform="matrix(0.97740652,0,0,0.97740652,670.0105,-113.38897)">
+       transform="translate(588.56357,-114.75152)">
       <rect
          y="114.75152"
          x="-685.49829"
