@@ -16,7 +16,10 @@
    id="svg4405"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Poster Billy.svg">
+   sodipodi:docname="Poster Billy.svg"
+   inkscape:export-filename="/home/as3mbus/Chamomile-Tea-Theme/rect6628.png"
+   inkscape:export-xdpi="89"
+   inkscape:export-ydpi="89">
   <defs
      id="defs4407">
     <clipPath
@@ -168,9 +171,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="558.86025"
-     inkscape:cy="526.71331"
+     inkscape:zoom="2"
+     inkscape:cx="1443.2826"
+     inkscape:cy="548.44724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -194,7 +197,7 @@
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
      inkscape:snap-global="false"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      showguides="false" />
   <metadata
      id="metadata4410">
@@ -413,15 +416,15 @@
       <image
          sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Assets/Haris.jpg"
          xlink:href="Assets/Haris.jpg"
-         y="255.70178"
-         x="-265.87949"
-         id="image4584"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="187.92267"
-         width="187.55634"
+         clip-path="url(#clipPath4604)"
          transform="matrix(-1.5976241,0,0,1.5976241,565.86251,32.255616)"
-         clip-path="url(#clipPath4604)" />
+         width="187.55634"
+         height="187.92267"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image4584"
+         x="-265.87949"
+         y="255.70178" />
     </g>
     <g
        id="g6240"
@@ -491,15 +494,15 @@
       <image
          sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Assets/Iwan.jpg"
          xlink:href="Assets/Iwan.jpg"
-         y="535.07581"
-         x="103.55338"
-         id="image4595"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="500"
-         width="500"
+         transform="matrix(0.46965207,0,0,0.46965207,-18.233171,-16.599649)"
          clip-path="url(#clipPath4610)"
-         transform="matrix(0.46965207,0,0,0.46965207,-18.233171,-16.599649)" />
+         width="500"
+         height="500"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image4595"
+         x="103.55338"
+         y="535.07581" />
     </g>
     <g
        id="g4684"
@@ -792,15 +795,15 @@
       <image
          sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Assets/Haris.jpg"
          xlink:href="Assets/Haris.jpg"
-         clip-path="url(#clipPath4604-1)"
-         transform="matrix(-1.5976241,0,0,1.5976241,1795.0065,32.255619)"
-         width="187.55634"
-         height="187.92267"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image4584-5"
+         y="255.70178"
          x="-265.87949"
-         y="255.70178" />
+         id="image4584-5"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="187.92267"
+         width="187.55634"
+         transform="matrix(-1.5976241,0,0,1.5976241,1795.0065,32.255619)"
+         clip-path="url(#clipPath4604-1)" />
     </g>
     <g
        id="g6011"
@@ -901,15 +904,15 @@
       <image
          sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Assets/Iwan.jpg"
          xlink:href="Assets/Iwan.jpg"
-         transform="matrix(0.46965207,0,0,0.46965207,1210.9108,-16.599651)"
-         clip-path="url(#clipPath4610-1)"
-         width="500"
-         height="500"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image4595-4"
+         y="535.07581"
          x="103.55338"
-         y="535.07581" />
+         id="image4595-4"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="500"
+         width="500"
+         clip-path="url(#clipPath4610-1)"
+         transform="matrix(0.46965207,0,0,0.46965207,1210.9108,-16.599651)" />
     </g>
     <g
        id="g4684-9"
@@ -954,7 +957,7 @@
     </g>
     <g
        id="g4668-2"
-       transform="matrix(1.1489984,0,0,1.1489984,1232.7877,-156.09944)"
+       transform="matrix(1.1489984,0,0,1.1489984,1229.7598,-156.09944)"
        style="fill:#0056b3;fill-opacity:1">
       <circle
          r="84.568558"
@@ -1037,27 +1040,27 @@
          sodipodi:linespacing="125%"
          id="text5967-3"
          y="765.45129"
-         x="1280.782"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9424181px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1396.5953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9424181px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
            y="765.45129"
-           x="1280.782"
+           x="1396.5953"
            sodipodi:role="line"
-           id="tspan6381-4">Snack               Sertifikat</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+           id="tspan6381-4">Snack    Sertifikat</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
            id="tspan5975-4"
            y="787.32629"
-           x="1280.782"
+           x="1396.5953"
            sodipodi:role="line">Tea Break        Makan Siang</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
            id="tspan5977-3"
            y="809.20129"
-           x="1280.782"
+           x="1396.5953"
            sodipodi:role="line">DVD TeaLinux OS</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
            y="831.07629"
-           x="1280.782"
+           x="1396.5953"
            sodipodi:role="line"
            id="tspan6704-9">Doorprize Smart Band</tspan></text>
     </g>
@@ -2083,5 +2086,235 @@
          cy="-313.14163"
          r="15.232233" />
     </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6628"
+       width="1052.3622"
+       height="117.99998"
+       x="0"
+       y="934.36218" />
+    <g
+       id="g5813-9"
+       transform="translate(1131.3936,-45.744246)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5797-7"
+         d="m 1394.4668,619.83008 c -21.559,4.75029 -40.3127,17.22224 -59.626,27.32641 -22.0705,12.67603 -44.7072,25.26797 -63.415,42.70874 -7.3482,10.24628 -5.655,23.73971 -7.3087,35.60972 -1.9182,35.30825 -2.4357,71.03569 3.086,106.04067 3.0485,12.73235 16.3312,18.06621 25.5938,25.58985 28.7303,19.47542 59.2218,36.51016 91.0156,50.42383 7.6197,3.47463 16.1114,3.06172 23.6178,-0.48411 26.7784,-10.52714 51.3533,-25.86366 76.064,-40.43374 12.7762,-8.23741 26.064,-16.3815 36.5135,-27.51184 6.4836,-10.55795 4.9977,-23.68554 6.5666,-35.50459 1.8642,-34.97807 2.33,-70.36636 -3.1408,-105.04033 -3.0486,-12.73456 -16.3335,-18.06929 -25.5977,-25.59375 -28.5518,-19.3419 -58.8261,-36.3129 -90.4156,-50.14518 -4.1514,-1.53483 -8.5046,-2.86456 -12.9535,-2.98568 z"
+         style="opacity:1;fill:#4fc780;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         d="m 1517.648,835.66118 c -8.1652,14.14249 -106,70.62749 -122.3304,70.62749 -16.3303,0 -114.1652,-56.485 -122.3304,-70.62749 -8.1651,-14.1425 -8.1651,-127.11248 0,-141.25498 8.1652,-14.14249 106.0001,-70.62748 122.3304,-70.62748 16.3304,0 114.1653,56.48499 122.3304,70.62748 8.1652,14.1425 8.1652,127.11248 0,141.25498 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.115609"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="122.33039"
+         sodipodi:r1="141.25497"
+         sodipodi:cy="765.03369"
+         sodipodi:cx="1395.3176"
+         sodipodi:sides="6"
+         id="path4735-3-3"
+         style="opacity:1;fill:#fcfefd;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         d="m 1421.9134,679.60007 c -1.7752,3.07471 -23.0454,15.35508 -26.5958,15.35508 -3.5503,0 -24.8206,-12.28037 -26.5957,-15.35508 -1.7752,-3.07471 -1.7752,-27.63544 0,-30.71015 1.7751,-3.07471 23.0454,-15.35508 26.5957,-15.35508 3.5504,0 24.8206,12.28037 26.5958,15.35508 1.7752,3.07471 1.7752,27.63544 0,30.71015 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.115609"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="26.595774"
+         sodipodi:r1="30.710155"
+         sodipodi:cy="664.245"
+         sodipodi:cx="1395.3176"
+         sodipodi:sides="6"
+         id="path4853-4-6"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#333333;stroke-width:2.66667461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         style="fill:#333333;fill-opacity:1"
+         id="path3-6-1"
+         d="m 1413.516,650.46165 -5.0186,0 c 0.051,-0.1656 0.072,-0.33013 0.072,-0.48337 0,-0.12107 0.01,-0.29538 0.012,-0.49716 0.054,-1.61147 0.1545,-4.6113 -1.3515,-6.16855 -0.5951,-0.61529 -1.3591,-0.9272 -2.2711,-0.9272 -2.348,0 -5.3215,2.15387 -6.4911,3.07974 -0.4526,0.35831 -2.2067,1.78605 -3.1494,3.10348 -0.9428,-1.31743 -2.697,-2.74508 -3.1496,-3.10348 -1.1695,-0.92587 -4.143,-3.07974 -6.4909,-3.07974 -0.912,0 -1.6762,0.31191 -2.271,0.9272 -1.5061,1.55725 -1.4058,4.55708 -1.3518,6.16855 0.01,0.20178 0.012,0.37609 0.012,0.49716 0,0.15342 0.019,0.31777 0.071,0.48337 l -5.0185,0 c -1.0151,0 -1.8409,0.82588 -1.8409,1.84091 l 0,7.7186 c 0,1.01502 0.8258,1.84089 1.8409,1.84089 l 1.4781,0 0,19.48423 c 0,0.72507 0.5898,1.31494 1.315,1.31494 l 11.9066,0 6.9973,0 11.9067,0 c 0.725,0 1.3149,-0.58987 1.3149,-1.31494 l 0,-19.48415 1.4782,0 c 1.015,0 1.8409,-0.82586 1.8409,-1.84089 l 0,-7.71868 c 0,-1.01503 -0.8259,-1.84091 -1.8409,-1.84091 z m -16.2776,9.82262 -3.8416,0 0,-8.19852 3.8416,0 0,8.19852 z m 2.375,-13.71294 c 2.1029,-1.63298 4.1007,-2.608 5.3447,-2.608 0.4811,0 0.8424,0.14178 1.1368,0.44622 1.0409,1.07618 0.9483,3.83904 0.9088,5.01878 -0.01,0.21395 -0.013,0.39902 -0.013,0.54586 -0.045,0.04 -9.0169,0.3744 -9.7232,0.28169 -0.6822,-0.0895 -0.9089,-0.22586 -0.9701,-0.27413 0.1558,-0.43716 1.3294,-1.86721 3.3165,-3.41042 z m -15.0731,-2.16178 c 0.2944,-0.30444 0.6557,-0.44622 1.1368,-0.44622 1.244,0 3.2419,0.97502 5.3447,2.608 1.9871,1.5433 3.1607,2.97326 3.3166,3.4105 -0.061,0.048 -0.2879,0.18462 -0.9703,0.27414 -0.7062,0.0927 -9.6777,-0.24205 -9.7232,-0.28169 -10e-5,-0.14685 -0.01,-0.33183 -0.013,-0.54578 -0.039,-1.17991 -0.132,-3.94277 0.9088,-5.01895 z m -7.684,15.61169 0,-7.71868 c 0,-0.14259 0.1204,-0.26303 0.263,-0.26303 l 14.6997,0 0,8.24456 -11.9067,0 -2.793,0 c -0.1426,1.8e-4 -0.263,-0.12036 -0.263,-0.26285 z m 3.3189,21.0622 0,-19.22131 11.6438,0 0,19.22131 -11.6438,0 z m 13.2216,0 0,-19.22131 3.8416,0 0,19.22131 -3.8416,0 z m 17.0632,0 -11.6438,0 0,-19.22131 11.6438,0 0,19.22131 z m 3.319,-21.0622 c 0,0.14249 -0.1205,0.26303 -0.263,0.26303 l -2.793,0 -11.9068,0 0,-8.24474 14.6998,0 c 0.1425,0 0.263,0.12044 0.263,0.26303 l 0,7.71868 z"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.68158913px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none"
+         x="1394.7136"
+         y="719.70508"
+         id="text5959-3-2"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:20px;fill:#333333;fill-opacity:1"
+           id="tspan5963-6-9"
+           sodipodi:role="line"
+           x="1394.7136"
+           y="719.70508">Fasilitas</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5803-3"
+         d="m 1518.6055,736.26367 c -18.0352,1.01457 -36.1714,-0.16638 -54.2578,0.27149 -65.9565,0.12 -131.9644,-0.23987 -197.8887,0.17968 -5.073,2.40425 -2.2328,9.65595 -3.4024,14.22657 -0.5062,25.51199 -0.1033,51.18531 3.3379,76.46289 1.0098,7.45941 4.859,14.00908 11.0494,18.34999 21.3147,17.332 45.7511,30.31738 69.467,44.006 14.845,7.84486 29.8995,16.06681 46.2258,20.25729 12.5263,0.57093 23.2902,-7.44016 34.4131,-12.03066 31.2193,-15.87618 62.1012,-33.15831 89.3897,-55.23497 9.5435,-9.10762 7.5609,-23.41627 9.4444,-35.30935 1.5962,-22.57695 1.9366,-45.44471 0.5822,-67.94198 -1.6532,-2.73922 -5.4084,-3.32863 -8.3606,-3.23695 z"
+         style="opacity:1;fill:#4fc780;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         id="path4750-3-1"
+         d="m 1267.2874,740.53435 c -1.3484,37.9604 0.548,86.2046 5.6993,95.1269 8.1651,14.1425 105.9997,70.627 122.33,70.627 16.3304,0 114.1669,-56.4845 122.3321,-70.627 5.1512,-8.9223 7.0476,-57.1665 5.6992,-95.1269 l -256.0606,0 z"
+         style="opacity:1;fill:#fcfefd;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5967-3-9"
+         y="765.45129"
+         x="1396.5953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9424181px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="765.45129"
+           x="1396.5953"
+           sodipodi:role="line"
+           id="tspan6381-4-4">Snack</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="787.32629"
+           x="1396.5953"
+           sodipodi:role="line"
+           id="tspan4832">Sertifikat</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           id="tspan5975-4-7"
+           y="809.20129"
+           x="1396.5953"
+           sodipodi:role="line">Tea Break</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="831.07629"
+           x="1396.5953"
+           sodipodi:role="line"
+           id="tspan4834">Makan Siang</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           id="tspan5977-3-8"
+           y="852.95129"
+           x="1396.5953"
+           sodipodi:role="line">DVD TeaLinux OS</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="874.82629"
+           x="1396.5953"
+           sodipodi:role="line"
+           id="tspan6704-9-4">Doorprize Smart Band</tspan></text>
+    </g>
+    <g
+       id="g5813-3"
+       transform="translate(1925.9727,-47.407946)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5797-6"
+         d="m 1394.4668,619.83008 c -21.559,4.75029 -40.3127,17.22224 -59.626,27.32641 -22.0705,12.67603 -44.7072,25.26797 -63.415,42.70874 -7.3482,10.24628 -5.655,23.73971 -7.3087,35.60972 -1.9182,35.30825 -2.4357,71.03569 3.086,106.04067 3.0485,12.73235 16.3312,18.06621 25.5938,25.58985 28.7303,19.47542 59.2218,36.51016 91.0156,50.42383 7.6197,3.47463 16.1114,3.06172 23.6178,-0.48411 26.7784,-10.52714 51.3533,-25.86366 76.064,-40.43374 12.7762,-8.23741 26.064,-16.3815 36.5135,-27.51184 6.4836,-10.55795 4.9977,-23.68554 6.5666,-35.50459 1.8642,-34.97807 2.33,-70.36636 -3.1408,-105.04033 -3.0486,-12.73456 -16.3335,-18.06929 -25.5977,-25.59375 -28.5518,-19.3419 -58.8261,-36.3129 -90.4156,-50.14518 -4.1514,-1.53483 -8.5046,-2.86456 -12.9535,-2.98568 z"
+         style="opacity:1;fill:#4fc780;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         d="m 1517.648,835.66118 c -8.1652,14.14249 -106,70.62749 -122.3304,70.62749 -16.3303,0 -114.1652,-56.485 -122.3304,-70.62749 -8.1651,-14.1425 -8.1651,-127.11248 0,-141.25498 8.1652,-14.14249 106.0001,-70.62748 122.3304,-70.62748 16.3304,0 114.1653,56.48499 122.3304,70.62748 8.1652,14.1425 8.1652,127.11248 0,141.25498 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.115609"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="122.33039"
+         sodipodi:r1="141.25497"
+         sodipodi:cy="765.03369"
+         sodipodi:cx="1395.3176"
+         sodipodi:sides="6"
+         id="path4735-3-7"
+         style="opacity:1;fill:#fcfefd;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         d="m 1421.9134,679.60007 c -1.7752,3.07471 -23.0454,15.35508 -26.5958,15.35508 -3.5503,0 -24.8206,-12.28037 -26.5957,-15.35508 -1.7752,-3.07471 -1.7752,-27.63544 0,-30.71015 1.7751,-3.07471 23.0454,-15.35508 26.5957,-15.35508 3.5504,0 24.8206,12.28037 26.5958,15.35508 1.7752,3.07471 1.7752,27.63544 0,30.71015 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.115609"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="26.595774"
+         sodipodi:r1="30.710155"
+         sodipodi:cy="664.245"
+         sodipodi:cx="1395.3176"
+         sodipodi:sides="6"
+         id="path4853-4-5"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#333333;stroke-width:2.66667461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         style="fill:#333333;fill-opacity:1"
+         id="path3-6-3"
+         d="m 1413.516,650.46165 -5.0186,0 c 0.051,-0.1656 0.072,-0.33013 0.072,-0.48337 0,-0.12107 0.01,-0.29538 0.012,-0.49716 0.054,-1.61147 0.1545,-4.6113 -1.3515,-6.16855 -0.5951,-0.61529 -1.3591,-0.9272 -2.2711,-0.9272 -2.348,0 -5.3215,2.15387 -6.4911,3.07974 -0.4526,0.35831 -2.2067,1.78605 -3.1494,3.10348 -0.9428,-1.31743 -2.697,-2.74508 -3.1496,-3.10348 -1.1695,-0.92587 -4.143,-3.07974 -6.4909,-3.07974 -0.912,0 -1.6762,0.31191 -2.271,0.9272 -1.5061,1.55725 -1.4058,4.55708 -1.3518,6.16855 0.01,0.20178 0.012,0.37609 0.012,0.49716 0,0.15342 0.019,0.31777 0.071,0.48337 l -5.0185,0 c -1.0151,0 -1.8409,0.82588 -1.8409,1.84091 l 0,7.7186 c 0,1.01502 0.8258,1.84089 1.8409,1.84089 l 1.4781,0 0,19.48423 c 0,0.72507 0.5898,1.31494 1.315,1.31494 l 11.9066,0 6.9973,0 11.9067,0 c 0.725,0 1.3149,-0.58987 1.3149,-1.31494 l 0,-19.48415 1.4782,0 c 1.015,0 1.8409,-0.82586 1.8409,-1.84089 l 0,-7.71868 c 0,-1.01503 -0.8259,-1.84091 -1.8409,-1.84091 z m -16.2776,9.82262 -3.8416,0 0,-8.19852 3.8416,0 0,8.19852 z m 2.375,-13.71294 c 2.1029,-1.63298 4.1007,-2.608 5.3447,-2.608 0.4811,0 0.8424,0.14178 1.1368,0.44622 1.0409,1.07618 0.9483,3.83904 0.9088,5.01878 -0.01,0.21395 -0.013,0.39902 -0.013,0.54586 -0.045,0.04 -9.0169,0.3744 -9.7232,0.28169 -0.6822,-0.0895 -0.9089,-0.22586 -0.9701,-0.27413 0.1558,-0.43716 1.3294,-1.86721 3.3165,-3.41042 z m -15.0731,-2.16178 c 0.2944,-0.30444 0.6557,-0.44622 1.1368,-0.44622 1.244,0 3.2419,0.97502 5.3447,2.608 1.9871,1.5433 3.1607,2.97326 3.3166,3.4105 -0.061,0.048 -0.2879,0.18462 -0.9703,0.27414 -0.7062,0.0927 -9.6777,-0.24205 -9.7232,-0.28169 -10e-5,-0.14685 -0.01,-0.33183 -0.013,-0.54578 -0.039,-1.17991 -0.132,-3.94277 0.9088,-5.01895 z m -7.684,15.61169 0,-7.71868 c 0,-0.14259 0.1204,-0.26303 0.263,-0.26303 l 14.6997,0 0,8.24456 -11.9067,0 -2.793,0 c -0.1426,1.8e-4 -0.263,-0.12036 -0.263,-0.26285 z m 3.3189,21.0622 0,-19.22131 11.6438,0 0,19.22131 -11.6438,0 z m 13.2216,0 0,-19.22131 3.8416,0 0,19.22131 -3.8416,0 z m 17.0632,0 -11.6438,0 0,-19.22131 11.6438,0 0,19.22131 z m 3.319,-21.0622 c 0,0.14249 -0.1205,0.26303 -0.263,0.26303 l -2.793,0 -11.9068,0 0,-8.24474 14.6998,0 c 0.1425,0 0.263,0.12044 0.263,0.26303 l 0,7.71868 z"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.68158913px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none"
+         x="1394.7136"
+         y="719.70508"
+         id="text5959-3-5"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:20px;fill:#333333;fill-opacity:1"
+           id="tspan5963-6-6"
+           sodipodi:role="line"
+           x="1394.7136"
+           y="719.70508">Fasilitas</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5803-2"
+         d="m 1518.6055,736.26367 c -18.0352,1.01457 -36.1714,-0.16638 -54.2578,0.27149 -65.9565,0.12 -131.9644,-0.23987 -197.8887,0.17968 -5.073,2.40425 -2.2328,9.65595 -3.4024,14.22657 -0.5062,25.51199 -0.1033,51.18531 3.3379,76.46289 1.0098,7.45941 4.859,14.00908 11.0494,18.34999 21.3147,17.332 45.7511,30.31738 69.467,44.006 14.845,7.84486 29.8995,16.06681 46.2258,20.25729 12.5263,0.57093 23.2902,-7.44016 34.4131,-12.03066 31.2193,-15.87618 62.1012,-33.15831 89.3897,-55.23497 9.5435,-9.10762 7.5609,-23.41627 9.4444,-35.30935 1.5962,-22.57695 1.9366,-45.44471 0.5822,-67.94198 -1.6532,-2.73922 -5.4084,-3.32863 -8.3606,-3.23695 z"
+         style="opacity:1;fill:#4fc780;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         id="path4750-3-9"
+         d="m 1267.2874,740.53435 c -1.3484,37.9604 0.548,86.2046 5.6993,95.1269 8.1651,14.1425 105.9997,70.627 122.33,70.627 16.3304,0 114.1669,-56.4845 122.3321,-70.627 5.1512,-8.9223 7.0476,-57.1665 5.6992,-95.1269 l -256.0606,0 z"
+         style="opacity:1;fill:#fcfefd;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5967-3-1"
+         y="765.45129"
+         x="1396.5953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9424181px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="765.45129"
+           x="1396.5953"
+           sodipodi:role="line"
+           id="tspan6704-9-6">Doorprize Smart Band</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="787.32629"
+           x="1396.5953"
+           sodipodi:role="line"
+           id="tspan4972">DVD TeaLinux OS</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="809.20129"
+           x="1396.5953"
+           sodipodi:role="line"
+           id="tspan4974">Makan Siang</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="831.07629"
+           x="1396.5953"
+           sodipodi:role="line"
+           id="tspan4976">Tea Break</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="852.95129"
+           x="1396.5953"
+           sodipodi:role="line"
+           id="tspan4984">Sertifikat</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="874.82629"
+           x="1396.5953"
+           sodipodi:role="line"
+           id="tspan4980">Snack</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1448.7224"
+       y="513.86218"
+       id="text5094"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5096"
+         x="1453.5759"
+         y="513.86218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:end;text-anchor:end">Jl. Imam Bonjol 188, </tspan><tspan
+         sodipodi:role="line"
+         x="1453.5759"
+         y="535.73718"
+         id="tspan5098"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:end;text-anchor:end">Semarang </tspan></text>
   </g>
 </svg>
