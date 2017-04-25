@@ -11,7 +11,6 @@
   <meta name="guide_color" content="0.435294 0.435294 1.000000"/>
   <meta name="guide_show" content="1"/>
   <meta name="guide_snap" content="0"/>
-  <meta name="guide_x" content="-1.064715"/>
   <meta name="jack_offset" content="0.000000"/>
   <meta name="onion_skin" content="0"/>
   <meta name="onion_skin_future" content="0"/>
@@ -29,6 +28,43 @@
   <keyframe time="2s 50f" active="true"/>
   <keyframe time="3s 5f" active="true"/>
   <keyframe time="4s 57f" active="true"/>
+  <layer type="rectangle" active="true" exclude_from_rendering="false" version="0.2" desc="Rectangle002">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="0.9999999907"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="color">
+      <color>
+        <r>0.133333</r>
+        <g>0.133333</g>
+        <b>0.133333</b>
+        <a>1.000000</a>
+      </color>
+    </param>
+    <param name="point1">
+      <vector>
+        <x>-9.5377063751</x>
+        <y>6.7665753365</y>
+      </vector>
+    </param>
+    <param name="point2">
+      <vector>
+        <x>9.2611227036</x>
+        <y>-7.1793904305</y>
+      </vector>
+    </param>
+    <param name="expand">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="invert">
+      <bool value="false"/>
+    </param>
+  </layer>
   <layer type="group" active="true" exclude_from_rendering="false" version="0.2" desc="Layer 1">
     <param name="z_depth">
       <real value="0.0000000000"/>
@@ -19173,28 +19209,28 @@
                                   <angle value="360.000000"/>
                                 </waypoint>
                                 <waypoint time="1.58333337s" before="clamped" after="clamped">
-                                  <angle guid="7F570DFBF94694FF896257926B7D1297" value="450.000000"/>
+                                  <angle value="450.000000"/>
                                 </waypoint>
                                 <waypoint time="1.83333337s" before="clamped" after="clamped">
-                                  <angle guid="846F5DC05491BDF6D4A644D27204FFB3" value="540.000000"/>
+                                  <angle value="540.000000"/>
                                 </waypoint>
                                 <waypoint time="2.08333325s" before="clamped" after="clamped">
-                                  <angle guid="91F4384AF1DF82BC7422D75B134EB9CE" value="630.000000"/>
+                                  <angle value="630.000000"/>
                                 </waypoint>
                                 <waypoint time="2.33333325s" before="clamped" after="clamped">
-                                  <angle guid="81DAE6AB4C5F2931C21F8E90DB72AEBC" value="720.000000"/>
+                                  <angle value="720.000000"/>
                                 </waypoint>
                                 <waypoint time="2.58333325s" before="clamped" after="clamped">
-                                  <angle guid="EAC7C4312D68F062461D21BC5823EED1" value="809.999939"/>
+                                  <angle value="809.999939"/>
                                 </waypoint>
                                 <waypoint time="2.83333325s" before="clamped" after="clamped">
-                                  <angle guid="6AEB4ED958CA20B8BB30A758BA90ED7A" value="900.000000"/>
+                                  <angle value="900.000000"/>
                                 </waypoint>
                                 <waypoint time="3.08333325s" before="clamped" after="clamped">
-                                  <angle guid="0FEABF7865792F10BCA4B36D7AD9822E" value="989.999939"/>
+                                  <angle value="989.999939"/>
                                 </waypoint>
                                 <waypoint time="4.94999981s" before="clamped" after="clamped">
-                                  <angle guid="27756F4A072F31DEFA79AE8DA83DD33B" value="1800.000000"/>
+                                  <angle value="1800.000000"/>
                                 </waypoint>
                               </animated>
                             </param>
