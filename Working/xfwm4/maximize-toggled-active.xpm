@@ -1,5 +1,5 @@
 /* XPM */
-static char *maximize_toggled_active[] = {
+static char *maximize_toggle-active[] = {
 /* columns rows colors chars-per-pixel */
 "20 20 2 1 ",
 "  c #555",
@@ -10,16 +10,16 @@ static char *maximize_toggled_active[] = {
 "                    ",
 "                    ",
 "                    ",
-"           .        ",
-"           ...      ",
-"           ...      ",
-"           ....     ",
 "                    ",
+"        ......      ",
+"        .    .      ",
+"      ...... .      ",
+"      .    . .      ",
+"      . .. . .      ",
+"      .    ...      ",
+"      .    .        ",
+"      ......        ",
 "                    ",
-"     ....           ",
-"      ...           ",
-"      ...           ",
-"        .           ",
 "                    ",
 "                    ",
 "                    ",
