@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="160"
-   height="160"
-   viewBox="0 0 160 160"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1122.5197 793.7008"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 unknown"
-   sodipodi:docname="bg-logo-green.svg"
+   sodipodi:docname="greenPoly.svg"
    inkscape:export-filename="C:\Users\D2J-00\Desktop\chartjs-logo.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
@@ -25,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Artboard 6</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,10 +95,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter5084"
-       x="-0.051651432"
-       width="1.1033029"
-       y="-0.046970716"
-       height="1.0939414">
+       x="-0.051651433"
+       width="1.103303"
+       y="-0.046970718"
+       height="1.0939415">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="3.0759825"
@@ -119,9 +120,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.6445855"
-     inkscape:cx="-180.69935"
-     inkscape:cy="175.9928"
+     inkscape:zoom="0.32229275"
+     inkscape:cx="-477.2414"
+     inkscape:cy="315.24229"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -129,18 +130,19 @@
      inkscape:snap-global="false"
      inkscape:snap-bbox="true"
      inkscape:snap-midpoints="true"
-     inkscape:bbox-nodes="true" />
+     inkscape:bbox-nodes="true"
+     units="mm" />
   <title
      id="title4">Artboard 6</title>
   <rect
-     style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.41199994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:11.19107437;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4868"
-     width="279.4628"
-     height="279.4628"
-     x="-59.731396"
-     y="-59.7314" />
+     width="1111.0049"
+     height="756.23621"
+     x="5.7573853"
+     y="18.732252" />
   <g
-     transform="translate(-671.21097,41.228965)"
+     transform="matrix(1.4164238,0,0,1.4164238,-502.77326,341.93417)"
      id="g5312">
     <g
        transform="translate(395.9798,-50.169492)"
