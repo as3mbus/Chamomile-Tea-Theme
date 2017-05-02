@@ -152,6 +152,28 @@ NautilusQueryEditor .search-bar.toolbar:only-child {
 }
 
 /******************
+ * Sidebar fix *
+ ******************/
+
+NautilusWindow .sidebar-row:hover{
+  background-color: @selected_bg_color;
+}
+NautilusWindow .sidebar-row:hover .sidebar-icon,
+NautilusWindow .sidebar-row:hover .sidebar-label,
+NautilusWindow .sidebar-row:hover .horizontal {
+    background-color: shade(@selected_bg_color,0.9);
+    color: @bg_color;
+}
+NautilusWindow .sidebar-row:selected .sidebar-icon,
+NautilusWindow .sidebar-row:selected .sidebar-label,
+NautilusWindow .sidebar-row:selected .horizontal
+{
+    background-color: @selected_bg_color;
+    color: @bg_color;
+    font-weight:bold;
+}
+
+/******************
  * gnome terminal *
  ******************/
 VteTerminal {

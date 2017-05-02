@@ -14,7 +14,7 @@
 @define-color tooltip_fg_color #eeeeee;
 
 /* dark color scheme */
-@define-color dark_bg_color #555;
+@define-color dark_bg_color #333;
 @define-color dark_fg_color #eeeeee;
 
 /* colormap actually used by the theme, to be overridden in other css files */
@@ -50,8 +50,8 @@
 @define-color titlebar_fg_color @dark_fg_color;
 @define-color menubar_bg_color @dark_bg_color;
 @define-color menubar_fg_color @dark_fg_color;
-@define-color toolbar_bg_color @dark_bg_color;
-@define-color toolbar_fg_color @dark_fg_color;
+@define-color toolbar_bg_color @bg_color;
+@define-color toolbar_fg_color @fg_color;
 @define-color menu_bg_color @dark_bg_color;
 @define-color menu_fg_color @dark_fg_color;
 @define-color panel_bg_color @dark_bg_color;
