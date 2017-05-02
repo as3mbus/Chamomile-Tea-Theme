@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=tealinuxos
+Description=tealinuxos plymouth 
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/tealinuxos
+ScriptFile=/lib/plymouth/themes/tealinuxos/tealinuxos.script
