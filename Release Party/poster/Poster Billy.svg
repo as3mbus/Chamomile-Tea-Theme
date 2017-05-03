@@ -171,16 +171,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9168657"
-     inkscape:cx="428.27452"
-     inkscape:cy="750.8468"
+     inkscape:zoom="0.11980411"
+     inkscape:cx="-559.38361"
+     inkscape:cy="957.83582"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="747"
+     inkscape:window-height="717"
      inkscape:window-x="0"
-     inkscape:window-y="21"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -406,17 +406,17 @@
            y="584.98901"
            style="font-size:40px;line-height:1.25">Ulala</tspan></text>
       <image
-         sodipodi:absref="/home/xavier/Documents/github/Chamomile-Tea-Theme/Assets/Haris.jpg"
-         xlink:href="Assets/Haris.jpg"
-         clip-path="url(#clipPath4604)"
-         transform="matrix(-1.5976241,0,0,1.5976241,565.86251,32.255616)"
-         width="187.55634"
-         height="187.92267"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image4584"
+         sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Release Party/poster/../../Assets/Haris.jpg"
+         xlink:href="../../Assets/Haris.jpg"
+         y="255.70178"
          x="-265.87949"
-         y="255.70178" />
+         id="image4584"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="187.92267"
+         width="187.55634"
+         transform="matrix(-1.5976241,0,0,1.5976241,565.86251,32.255616)"
+         clip-path="url(#clipPath4604)" />
     </g>
     <path
        id="path4618"
@@ -480,17 +480,17 @@
        d="m 267.17097,326.43309 c -0.006,0 -0.0152,0.002 -0.0215,0.002 h -36.0069 v 59.92774 h 36.02839 v -0.006 c 3.46396,0 24.21724,-11.9806 25.94922,-14.98047 1.73198,-2.99988 1.73198,-26.96302 0,-29.96289 C 291.3882,338.41359 270.63492,326.433 267.17096,326.433 Z"
        id="path4616" />
     <image
-       sodipodi:absref="/home/xavier/Documents/github/Chamomile-Tea-Theme/Assets/Iwan.jpg"
-       xlink:href="Assets/Iwan.jpg"
-       y="535.07581"
-       x="103.55338"
-       id="image4595"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="500"
-       width="500"
+       sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Release Party/poster/../../Assets/Iwan.jpg"
+       xlink:href="../../Assets/Iwan.jpg"
+       transform="matrix(0.46965207,0,0,0.46965207,-18.233171,-24.599649)"
        clip-path="url(#clipPath4610)"
-       transform="matrix(0.46965207,0,0,0.46965207,-18.233171,-24.599649)" />
+       width="500"
+       height="500"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4595"
+       x="103.55338"
+       y="535.07581" />
     <g
        id="g4684"
        transform="matrix(1.1303203,0,0,1.1303203,-101.74016,-56.762475)">
@@ -773,17 +773,17 @@
          d="m 2125.6523,435.61133 c -23.8144,5.85149 -43.9486,20.68741 -65.0079,32.53237 -9.4074,6.22354 -20.2812,12.22508 -25.8714,22.3753 -4.8944,13.59698 -3.0268,28.35331 -4.2613,42.49272 -0.1859,19.54195 -0.6618,39.64607 4.3703,58.62411 7.0495,12.2843 21.119,17.5081 32.0472,25.55919 18.3524,11.09874 37.0824,22.63724 57.813,28.55693 12.7306,0.51473 23.1803,-8.19873 34.3945,-12.83984 19.84,-10.67202 39.8894,-21.78778 56.7656,-36.82422 7.7521,-10.60864 5.116,-24.58497 6.8633,-36.80664 0.787,-22.59577 0.9168,-45.59049 -3.4472,-67.8125 -5.552,-12.07581 -18.8155,-17.35737 -28.9182,-24.8083 -19.218,-11.65973 -38.6422,-23.82689 -60.2088,-30.60967 -1.482,-0.30052 -3.0291,-0.61337 -4.5391,-0.43945 z"
          style="fill:#4fc780;fill-opacity:1;stroke:none;stroke-width:12.92001152;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <image
-         sodipodi:absref="/home/xavier/Documents/github/Chamomile-Tea-Theme/Assets/Haris.jpg"
-         xlink:href="Assets/Haris.jpg"
-         y="255.70178"
-         x="-265.87949"
-         id="image4584-5"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="187.92267"
-         width="187.55634"
+         sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Release Party/poster/../../Assets/Haris.jpg"
+         xlink:href="../../Assets/Haris.jpg"
+         clip-path="url(#clipPath4604-1)"
          transform="matrix(-1.5976241,0,0,1.5976241,1795.0065,32.255619)"
-         clip-path="url(#clipPath4604-1)" />
+         width="187.55634"
+         height="187.92267"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image4584-5"
+         x="-265.87949"
+         y="255.70178" />
     </g>
     <g
        id="g6011"
@@ -882,17 +882,17 @@
          d="m 1379.1211,229.89258 c -17.7861,3.80833 -32.9389,14.47893 -48.7085,22.82532 -14.191,8.4829 -29.4014,16.48501 -40.6685,28.7528 -5.3206,10.12804 -3.7925,22.06128 -4.9814,33.06512 -0.6915,23.01714 -1.366,46.42626 3.2412,69.09309 4.209,10.00429 15.2371,14.28383 23.3334,20.51816 20.7494,13.03373 41.8847,26.24899 65.2037,34.13613 10.7688,1.35152 19.9997,-6.01502 29.4439,-9.94372 21.6623,-11.45622 43.6754,-23.15172 62.1674,-39.40393 6.7186,-8.945 4.7487,-21.02935 6.1494,-31.46874 0.8794,-24.15785 1.688,-48.73339 -3.0849,-72.54298 -4.2181,-10.00187 -15.2076,-14.29578 -23.3312,-20.51846 -20.9733,-13.10499 -42.2743,-26.61078 -65.9188,-34.30771 -0.9318,-0.1528 -1.9051,-0.31786 -2.8457,-0.20508 z"
          style="fill:#4fc780;fill-opacity:1;stroke:none;stroke-width:12.92001152;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <image
-         sodipodi:absref="/home/xavier/Documents/github/Chamomile-Tea-Theme/Assets/Iwan.jpg"
-         xlink:href="Assets/Iwan.jpg"
-         y="535.07581"
-         x="103.55338"
-         id="image4595-4"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="500"
-         width="500"
+         sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Release Party/poster/../../Assets/Iwan.jpg"
+         xlink:href="../../Assets/Iwan.jpg"
+         transform="matrix(0.46965207,0,0,0.46965207,1210.9108,-16.599651)"
          clip-path="url(#clipPath4610-1)"
-         transform="matrix(0.46965207,0,0,0.46965207,1210.9108,-16.599651)" />
+         width="500"
+         height="500"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image4595-4"
+         x="103.55338"
+         y="535.07581" />
     </g>
     <g
        id="g4684-9"
