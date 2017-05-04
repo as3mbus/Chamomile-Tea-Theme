@@ -23,8 +23,8 @@ core_x = 125;
 core_y = Window.GetHeight() - stem.image.GetHeight() + 15;
 core_d = 15;
 
-for(i=0; i<249; i++ ){
-	images[i]=Image("teaPly.0"+i+".png");
+for(i=0; i<365; i++ ){
+	images[i]=Image("tea"+i+".png");
 }
 sprites=Sprite();
 

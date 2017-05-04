@@ -29,43 +29,6 @@
   <keyframe time="3s 5f" active="true"/>
   <keyframe time="3s 20f" active="true"/>
   <keyframe time="6s 5f" active="true"/>
-  <layer type="rectangle" active="true" exclude_from_rendering="false" version="0.2" desc="Rectangle002">
-    <param name="z_depth">
-      <real value="0.0000000000"/>
-    </param>
-    <param name="amount">
-      <real value="0.9999999907"/>
-    </param>
-    <param name="blend_method">
-      <integer value="0"/>
-    </param>
-    <param name="color">
-      <color>
-        <r>0.133333</r>
-        <g>0.133333</g>
-        <b>0.133333</b>
-        <a>1.000000</a>
-      </color>
-    </param>
-    <param name="point1">
-      <vector>
-        <x>-9.5377063751</x>
-        <y>6.7665753365</y>
-      </vector>
-    </param>
-    <param name="point2">
-      <vector>
-        <x>9.2611227036</x>
-        <y>-7.1793904305</y>
-      </vector>
-    </param>
-    <param name="expand">
-      <real value="0.0000000000"/>
-    </param>
-    <param name="invert">
-      <bool value="false"/>
-    </param>
-  </layer>
   <layer type="group" active="true" exclude_from_rendering="false" version="0.2" desc="Layer 1">
     <param name="z_depth">
       <real value="0.0000000000"/>
@@ -9352,10 +9315,55 @@
                         <t2>
                           <radial_composite type="vector">
                             <radius>
-                              <real value="0.0000000000"/>
+                              <real value="0.0040465863"/>
                             </radius>
                             <theta>
-                              <angle value="-180.000000"/>
+                              <angle value="-307.169128"/>
+                            </theta>
+                          </radial_composite>
+                        </t2>
+                        <split_radius>
+                          <bool value="true"/>
+                        </split_radius>
+                        <split_angle>
+                          <bool value="true"/>
+                        </split_angle>
+                      </composite>
+                    </entry>
+                    <entry>
+                      <composite guid="27A4B2DCD5F0229394189EC612956FCA" type="bline_point">
+                        <point>
+                          <vector>
+                            <x>-0.6858052611</x>
+                            <y>0.7541313171</y>
+                          </vector>
+                        </point>
+                        <width>
+                          <real value="1.0000000000"/>
+                        </width>
+                        <origin>
+                          <real value="0.5746148825"/>
+                        </origin>
+                        <split>
+                          <bool value="false"/>
+                        </split>
+                        <t1>
+                          <radial_composite type="vector">
+                            <radius>
+                              <real value="0.0037215261"/>
+                            </radius>
+                            <theta>
+                              <angle value="-3.742247"/>
+                            </theta>
+                          </radial_composite>
+                        </t1>
+                        <t2>
+                          <radial_composite type="vector">
+                            <radius>
+                              <real value="0.0069383384"/>
+                            </radius>
+                            <theta>
+                              <angle value="-182.154099"/>
                             </theta>
                           </radial_composite>
                         </t2>
@@ -9387,10 +9395,10 @@
                         <t1>
                           <radial_composite type="vector">
                             <radius>
-                              <real value="0.0000000000"/>
+                              <real value="0.0049855106"/>
                             </radius>
                             <theta>
-                              <angle value="0.000000"/>
+                              <angle value="-239.394440"/>
                             </theta>
                           </radial_composite>
                         </t1>
@@ -19231,10 +19239,10 @@
                                   <angle value="989.999939"/>
                                 </waypoint>
                                 <waypoint time="3.33333325s" before="clamped" after="clamped">
-                                  <angle guid="39944C2292B4402DEA58D73AD6950C57" value="1080.000000"/>
+                                  <angle value="1080.000000"/>
                                 </waypoint>
                                 <waypoint time="6.08333349s" before="clamped" after="clamped">
-                                  <angle guid="DCAB8D90D8545D800E1FA4C79FAFC525" value="2160.000000"/>
+                                  <angle value="2160.000000"/>
                                 </waypoint>
                               </animated>
                             </param>
@@ -19494,43 +19502,43 @@
                             <param name="amount">
                               <animated type="angle">
                                 <waypoint time="0.58333331s" before="clamped" after="clamped">
-                                  <angle guid="73E55C5982A5344243B10B8F8C034E52" value="-60.000000"/>
+                                  <angle value="-60.000000"/>
                                 </waypoint>
                                 <waypoint time="0.83333331s" before="clamped" after="clamped">
-                                  <angle guid="30DA8430B9576096AE38F61377BC0B76" value="-120.000000"/>
+                                  <angle value="-120.000000"/>
                                 </waypoint>
                                 <waypoint time="1.08333337s" before="clamped" after="clamped">
-                                  <angle guid="8ACAF41A5FAA191C3A95757A5D9E98B7" value="-180.000000"/>
+                                  <angle value="-180.000000"/>
                                 </waypoint>
                                 <waypoint time="1.33333337s" before="clamped" after="clamped">
-                                  <angle guid="8F66E95C706DAAC5C29C560FCDC95D9B" value="-240.000000"/>
+                                  <angle value="-240.000000"/>
                                 </waypoint>
                                 <waypoint time="1.58333337s" before="clamped" after="clamped">
-                                  <angle guid="E1244282E750379D7C632320A0DDB2AE" value="-300.000000"/>
+                                  <angle value="-300.000000"/>
                                 </waypoint>
                                 <waypoint time="1.83333337s" before="clamped" after="clamped">
-                                  <angle guid="0E3A0AA8FBED4A6C474775DBBDC580B4" value="-360.000000"/>
+                                  <angle value="-360.000000"/>
                                 </waypoint>
                                 <waypoint time="2.08333325s" before="clamped" after="clamped">
-                                  <angle guid="A068A11709B8E1EDBFA682DF07AA3483" value="-420.000000"/>
+                                  <angle value="-420.000000"/>
                                 </waypoint>
                                 <waypoint time="2.33333325s" before="clamped" after="clamped">
-                                  <angle guid="9011553F6E94016AF7E2696A2F43825F" value="-480.000000"/>
+                                  <angle value="-480.000000"/>
                                 </waypoint>
                                 <waypoint time="2.58333325s" before="clamped" after="clamped">
-                                  <angle guid="65F21D570BCF29D6AAC5B1DF25FC3754" value="-540.000000"/>
+                                  <angle value="-540.000000"/>
                                 </waypoint>
                                 <waypoint time="2.83333325s" before="clamped" after="clamped">
-                                  <angle guid="14DC43373683E58AD217BBCF05D25CF9" value="-600.000000"/>
+                                  <angle value="-600.000000"/>
                                 </waypoint>
                                 <waypoint time="3.08333325s" before="clamped" after="clamped">
-                                  <angle guid="FABBA686D16F96B65C4A1F51C9B15BC3" value="-660.000000"/>
+                                  <angle value="-660.000000"/>
                                 </waypoint>
                                 <waypoint time="3.33333325s" before="clamped" after="clamped">
-                                  <angle guid="51B9721A8EDA7BE23171915162D6ABFE" value="-720.000000"/>
+                                  <angle value="-720.000000"/>
                                 </waypoint>
                                 <waypoint time="6.08333349s" before="clamped" after="clamped">
-                                  <angle guid="01A336FC192C8C3C3671349FAA79AFB2" value="-1440.000000"/>
+                                  <angle value="-1440.000000"/>
                                 </waypoint>
                               </animated>
                             </param>
@@ -19835,43 +19843,43 @@
                             <param name="amount">
                               <animated type="angle">
                                 <waypoint time="0.58333331s" before="clamped" after="clamped">
-                                  <angle guid="6D96958AE30A927D58DDE28C77710762" value="30.000000"/>
+                                  <angle value="30.000000"/>
                                 </waypoint>
                                 <waypoint time="0.83333331s" before="clamped" after="clamped">
-                                  <angle guid="3FB5405EA42FFDD29924F563C3F33463" value="60.000000"/>
+                                  <angle value="60.000000"/>
                                 </waypoint>
                                 <waypoint time="1.08333337s" before="clamped" after="clamped">
-                                  <angle guid="04F9BC35E313E7B5008E821872E9371A" value="90.000000"/>
+                                  <angle value="90.000000"/>
                                 </waypoint>
                                 <waypoint time="1.33333337s" before="clamped" after="clamped">
-                                  <angle guid="C001C03A5B5D2DC5F62864B4ACEEE761" value="120.000000"/>
+                                  <angle value="120.000000"/>
                                 </waypoint>
                                 <waypoint time="1.58333337s" before="clamped" after="clamped">
-                                  <angle guid="D1FFB4FA0D0E27656105A21E7CA93E8C" value="150.000000"/>
+                                  <angle value="150.000000"/>
                                 </waypoint>
                                 <waypoint time="1.83333337s" before="clamped" after="clamped">
-                                  <angle guid="74E65CD6CF9541A364BEB5C311342EBD" value="180.000000"/>
+                                  <angle value="180.000000"/>
                                 </waypoint>
                                 <waypoint time="2.08333325s" before="clamped" after="clamped">
-                                  <angle guid="9EA56EF534CBA236014C51048081429E" value="210.000000"/>
+                                  <angle value="210.000000"/>
                                 </waypoint>
                                 <waypoint time="2.33333325s" before="clamped" after="clamped">
-                                  <angle guid="6A835E10C8567E9892F018D48074D2AB" value="240.000000"/>
+                                  <angle value="240.000000"/>
                                 </waypoint>
                                 <waypoint time="2.58333325s" before="clamped" after="clamped">
-                                  <angle guid="F3A3954C4E1859395ACBD4C9504204F6" value="270.000000"/>
+                                  <angle value="270.000000"/>
                                 </waypoint>
                                 <waypoint time="2.83333325s" before="clamped" after="clamped">
-                                  <angle guid="B878CF94E0BF67522946AD4A145E9E41" value="300.000000"/>
+                                  <angle value="300.000000"/>
                                 </waypoint>
                                 <waypoint time="3.08333325s" before="clamped" after="clamped">
-                                  <angle guid="C97B37B758C07D97647646107B3B4DF7" value="330.000000"/>
+                                  <angle value="330.000000"/>
                                 </waypoint>
                                 <waypoint time="3.33333325s" before="clamped" after="clamped">
-                                  <angle guid="93806399B86FEBACE18E6E51D3542C0D" value="360.000000"/>
+                                  <angle value="360.000000"/>
                                 </waypoint>
                                 <waypoint time="6.08333349s" before="clamped" after="clamped">
-                                  <angle guid="722025FDB2BA3CFE38E9B39704844603" value="720.000000"/>
+                                  <angle value="720.000000"/>
                                 </waypoint>
                               </animated>
                             </param>
