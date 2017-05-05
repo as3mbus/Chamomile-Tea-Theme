@@ -342,15 +342,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="605.94587"
-     inkscape:cy="508.05528"
+     inkscape:cx="188.24343"
+     inkscape:cy="675.86903"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="747"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="21"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata6679">
@@ -664,26 +664,6 @@
          cx="128.36179"
          cy="263.47763"
          r="9.0370893" />
-      <image
-         sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Release Party/sertifikat/./../../Assets/Udinus-FIK.png"
-         xlink:href="./../../Assets/Udinus-FIK.png"
-         width="16.003748"
-         height="15.947397"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image5780"
-         x="120.3599"
-         y="255.50394" />
-      <image
-         sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Release Party/sertifikat/./../../Assets/logo_doscom_resmi.png"
-         xlink:href="./../../Assets/logo_doscom_resmi.png"
-         width="8.4427834"
-         height="14.499564"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image5782"
-         x="77.416725"
-         y="256.22784" />
       <path
          style="fill:#000000;fill-opacity:0.18823529;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 104.99995,-4.6e-6 104.99974,36.339998 210.00005,15.37177 209.99995,-4.6e-6 Z"
