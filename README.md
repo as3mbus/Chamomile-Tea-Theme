@@ -1,6 +1,6 @@
 # Chamomile-Tea-Theme
 
-This is repository for TeaLinuxOS 9 artwork which include promotional file for release party TeaLinuxOS201
+This is repository for TeaLinuxOS 9 artwork which include promotional file for release party TeaLinuxOS 2017
 
 this Repo include : 
 1. Artwork : file to be added inside TeaLinuxOS
