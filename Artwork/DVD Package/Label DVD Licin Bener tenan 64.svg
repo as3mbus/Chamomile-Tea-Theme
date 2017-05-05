@@ -1857,7 +1857,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.82607981"
      inkscape:cx="136.10351"
-     inkscape:cy="337.91364"
+     inkscape:cy="128.25518"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5029,7 +5029,10 @@
     <g
        id="g9630"
        clip-path="url(#clipPath10929)"
-       transform="matrix(0.98898767,0,0,0.98730865,2.4480223,10.409962)">
+       transform="matrix(0.98898767,0,0,0.98730865,2.4480223,10.409962)"
+       inkscape:export-filename="/home/xavier/Desktop/label.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
       <path
          inkscape:export-ydpi="100"
          inkscape:export-xdpi="100"
