@@ -36,7 +36,7 @@ fun refresh ()
  sprites.SetOpacity (1);
  sprites.SetImage(images[time]);
  time++;
- if(time==249) time=4;
+ if(time==365) time=200;
 }
 Plymouth.SetRefreshFunction (refresh);
 
