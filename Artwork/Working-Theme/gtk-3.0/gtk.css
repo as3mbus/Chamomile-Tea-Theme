@@ -54,8 +54,8 @@
 @define-color toolbar_fg_color @fg_color;
 @define-color menu_bg_color @dark_bg_color;
 @define-color menu_fg_color @dark_fg_color;
-@define-color panel_bg_color @dark_bg_color;
-@define-color panel_fg_color @dark_fg_color;
+@define-color panel_bg_color @tooltip_bg_color;
+@define-color panel_fg_color @tooltip_fg_color;
 
 /* osd */
 @define-color osd_base @dark_bg_color;
