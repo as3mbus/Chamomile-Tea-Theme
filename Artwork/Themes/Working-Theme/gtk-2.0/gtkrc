@@ -1,5 +1,5 @@
 
-gtk-color-scheme = "bg_color:#ECEDEF\nfg_color:#222222\nbase_color:#f9f9f9\ntext_color:#333333\nselected_bg_color:#4fc780\nselected_fg_color:#f9f9f9\ntooltip_bg_color:#2d2d2d\ntooltip_fg_color:#dedede\ntitlebar_bg_color:#555\ntitlebar_fg_color:#dcdcdc\nmenubar_bg_color:#333\nmenubar_fg_color:#f9f9f9\ntoolbar_bg_color:#dedede\ntoolbar_fg_color:#555555\nmenu_bg_color:#444\nmenu_fg_color:#f9f9f9\npanel_bg_color:#555\npanel_fg_color:#dcdcdc\nlink_color:#4fc780"
+gtk-color-scheme = "bg_color:#ECEDEF\nfg_color:#222222\nbase_color:#f9f9f9\ntext_color:#333333\nselected_bg_color:#4fc780\nselected_fg_color:#f9f9f9\ntooltip_bg_color:#2d2d2d\ntooltip_fg_color:#dedede\ntitlebar_bg_color:#555\ntitlebar_fg_color:#dcdcdc\nmenubar_bg_color:#DDD\nmenubar_fg_color:#333\ntoolbar_bg_color:#dedede\ntoolbar_fg_color:#555555\nmenu_bg_color:#f9f9f9\nmenu_fg_color:#444\npanel_bg_color:#555\npanel_fg_color:#dcdcdc\nlink_color:#4fc780"
 
 
 # Default Style

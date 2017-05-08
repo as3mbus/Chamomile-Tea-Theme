@@ -646,9 +646,11 @@ BirdieWidgetsTweetList * {
     background-color: transparent;
     color: white;
     font-weight: bold;
-    text-shadow: 0 1px 2px alpha (black, 0.5);
-    icon-shadow: 0 1px 2px alpha (black, 0.5);
+    text-shadow: 0px 0px 2px alpha (white, 0.8);
+    icon-shadow: 0px 1px 2px alpha (black, 0.8);
 }
+
+
 
 .panel .menu .menuitem {
     font-weight: normal;

@@ -1111,11 +1111,19 @@ GtkComboBox .menu {
     background-color: transparent;
     background-image: none;
     box-shadow: inset 0px -3px @selected_bg_color;
-    color: white;
+    color: @fg_color;
+    font-weight: bold;
 }
 
-.menubar .menuitem *:hover {
-    color: white;
+.menubar.menuitem:hover *:hover *,
+.menubar .menuitem:hover *:hover *{
+    font-weight: bold;
+    color: @selected_fg_color;
+}
+.menubar.menuitem * *,
+.menubar .menuitem * *{
+    color: @fg_color;
+    font-weight: normal;
 }
 
 /************
@@ -1145,6 +1153,7 @@ GtkTreeMenu .menuitem {
     border-color: shade(@theme_selected_bg_color, 0.9);
     background-color: @theme_selected_bg_color;
     background-image: none;
+    color: @theme_selected_fg_color;
 }
 
 .menu .menuitem:active,
