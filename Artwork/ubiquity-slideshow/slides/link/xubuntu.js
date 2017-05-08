@@ -100,15 +100,15 @@ Signals.watch( 'slideshow-loaded', function( ) {
 	/* Desktop */
 	/* Highlight the portions of the panel when hovering over the information boxes */
 	$( '#panel_menu' ).hover(
-		function( ) { panelhighlight_show( 0, 57 ); },
+		function( ) { panelhighlight_show( 0, 75 ); },
 		function( ) { panelhighlight_hide( ); }
 	);
 	$( '#panel_windowbuttons' ).hover(
-		function( ) { panelhighlight_show( 68, 350 ); },
+		function( ) { panelhighlight_show( 80, 395 ); },
 		function( ) { panelhighlight_hide( ); }
 	);
 	$( '#panel_indicatorsclock' ).hover(
-		function( ) { panelhighlight_show( 425, 320 ); },
+		function( ) { panelhighlight_show( 486, 265 ); },
 		function( ) { panelhighlight_hide( ); }
 	);
 
@@ -130,7 +130,7 @@ function contrib_component( ) {
 	c = $( '#contrib_hilight div:nth-child( ' + contrib_cycle + ')' ).clone( );
 	c.addClass( 'fo contrib' ).css( 'top', ( Math.random( ) * 70 + 10 ) + '%' );
 	c.appendTo( $( '#contribute' ) );
-
+	c.css('font-size', '3em' );
 	c.animate( { left: '60%' }, 1200, 'linear' ).animate( { left: '80%' }, 2000, 'linear' ).animate( { left: '100%' }, 400, 'linear' );
 
 	contrib_clear_timeout = setTimeout( function( ) { c.remove( ); }, 3600 );

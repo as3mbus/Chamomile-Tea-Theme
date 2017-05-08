@@ -229,8 +229,8 @@ h2 {
 
 /*  Background images that span over multiple slides  */
 
-.slide.mouse_left { background: transparent url(../images/bg_mouse_left.png) 100% 100% no-repeat; }
-.slide.mouse_right { background: transparent url(../images/bg_mouse_right.png) 0 100% no-repeat; }
+.slide.mouse_left { background: transparent url(../images/tea-left.png) 100% 100% no-repeat; }
+.slide.mouse_right { background: transparent url(../images/tea-right.png) 0 100% no-repeat; }
 
 /*  Speech bubbles  */
 .bubble {
@@ -416,7 +416,7 @@ h2 {
 	width: 52%;
 }
 
-.slide#support-live .bubble.local { position: absolute; display: none; background-color: rgba( 0, 0, 0, 0.1 ); }
+.slide#support-live .bubble.local { position: absolute; display: none; background-color: rgba( 0, 0, 0, 0.7 ); }
 	.slide#support-live .bubble.local:after { opacity: 0.5; }
 	.slide#support-live .bubble.local-cat { top: 280px; left: 30px; font-size: 90%; padding: 0.2em 0.5em; }
 	.slide#support-live .bubble.local-de { top: 150px; left: 150px; }
@@ -445,6 +445,9 @@ h2 {
 		.slide#contribute #contrib_hilight {
 			display: none;
 		}
+		.slide#contribute #contrib_hilight * {
+			font-size: 10em;
+		}
 		.slide#contribute .contrib {
 			position: absolute;
 			z-index: 50;
@@ -457,5 +460,5 @@ h2 {
 
 /*  Thank you  */
 .slide#xenial {
-	background: transparent url(../images/back.png) 100% 100% no-repeat;
+	background: transparent url(../images/Thankyou.png) 100% 100% no-repeat;
 }
