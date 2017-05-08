@@ -261,7 +261,7 @@ h2 {
 
 			width: 30px;
 			height: 20px;
-
+			background: transparent url(triangledown.png) 100% 0 no-repeat;
 			background-size: 50%;
 		}
 	.bubble.xsmall { padding: 0.2em 0.5em; }
@@ -271,7 +271,7 @@ h2 {
 
 			width: 15px;
 			height: 10px;
-
+			background: transparent url(triangledown.png) 100% 0 no-repeat;
 			background-size: 75%;
 		}
 
@@ -415,9 +415,12 @@ h2 {
 	box-sizing: border-box;
 	width: 52%;
 }
+.slide#support-live .bubble.online:after {
+	opacity: 0.25;
+}
 
 .slide#support-live .bubble.local { position: absolute; display: none; background-color: rgba( 0, 0, 0, 0.7 ); }
-	.slide#support-live .bubble.local:after { opacity: 0.5; }
+	.slide#support-live .bubble.local:after { opacity: 1.0; }
 	.slide#support-live .bubble.local-cat { top: 280px; left: 30px; font-size: 90%; padding: 0.2em 0.5em; }
 	.slide#support-live .bubble.local-de { top: 150px; left: 150px; }
 	.slide#support-live .bubble.local-fi { top: 120px; left: 50px; }
