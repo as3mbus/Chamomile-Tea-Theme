@@ -503,43 +503,43 @@
        id="mask8467"
        maskUnits="userSpaceOnUse">
       <image
-         sodipodi:absref="/home/xavier/Documents/github/Chamomile-Tea-Theme/bg/desktop/Chamomile Theme/master/polo/Chamomile Theme/Assets/Polo Abu.png"
+         sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Artwork/bg/desktop/Chamomile Theme/master/polo/Chamomile Theme/Assets/Polo Abu.png"
          xlink:href="desktop/Chamomile Theme/master/polo/Chamomile Theme/Assets/Polo Abu.png"
-         width="65.616669"
-         height="53.710415"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image8469"
+         y="156.87695"
          x="27.47434"
-         y="156.87695" />
+         id="image8469"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="53.710415"
+         width="65.616669" />
     </mask>
     <mask
        id="mask9252"
        maskUnits="userSpaceOnUse">
       <image
-         sodipodi:absref="/home/xavier/Documents/github/Chamomile-Tea-Theme/bg/../Assets/Polo Abu.jpeg"
-         xlink:href="../Assets/Polo Abu.jpeg"
-         width="254"
-         height="208.28"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image9254"
+         sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Artwork/bg/.././../Assets/Polo Abu.jpeg"
+         xlink:href=".././../Assets/Polo Abu.jpeg"
+         y="2.4106174"
          x="518.8526"
-         y="2.4106174" />
+         id="image9254"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="208.28"
+         width="254" />
     </mask>
     <mask
        id="mask8975"
        maskUnits="userSpaceOnUse">
       <image
-         sodipodi:absref="/home/xavier/Documents/github/Chamomile-Tea-Theme/bg/../Assets/Polo Abu.jpeg"
-         xlink:href="../Assets/Polo Abu.jpeg"
-         width="254"
-         height="208.28"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image8977"
+         sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Artwork/bg/.././../Assets/Polo Abu.jpeg"
+         xlink:href=".././../Assets/Polo Abu.jpeg"
+         y="155.15727"
          x="549.92511"
-         y="155.15727" />
+         id="image8977"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="208.28"
+         width="254" />
     </mask>
     <mask
        id="mask10086-8"
@@ -1386,9 +1386,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.10749583"
-     inkscape:cx="-798.82929"
-     inkscape:cy="315.17574"
+     inkscape:zoom="1.7199333"
+     inkscape:cx="499.97566"
+     inkscape:cy="141.58721"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1406,9 +1406,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="747"
+     inkscape:window-height="713"
      inkscape:window-x="0"
-     inkscape:window-y="21"
+     inkscape:window-y="29"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -3023,18 +3023,52 @@
         <g
            transform="matrix(0.73614982,0,0,0.73614982,-175.46311,469.94487)"
            id="g9622">
-          <text
-             xml:space="preserve"
+          <g
+             aria-label="TeaLinuxOS"
+             mask="none"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.6517334px;line-height:0%;font-family:'Levenim MT';-inkscape-font-specification:'Levenim MT, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#16502d;fill-opacity:1;stroke:none;stroke-width:0.5543111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             x="-88.12719"
-             y="-69.735764"
-             id="text9616"
-             mask="none"><tspan
-               sodipodi:role="line"
-               id="tspan9614"
-               x="-88.12719"
-               y="-69.735764"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.38469696px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#16502d;fill-opacity:1;stroke-width:0.5543111px">TeaLinuxOS</tspan></text>
+             id="text9616">
+            <path
+               d="m -85.947483,-69.735764 h 0.916468 v -8.322516 h 2.093013 v -0.829775 h -5.102495 v 0.829775 h 2.093014 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.38469696px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#16502d;fill-opacity:1;stroke-width:0.5543111px"
+               id="path4947" />
+            <path
+               d="m -75.286968,-72.819553 c 0,-0.928852 -0.123847,-1.498548 -0.458234,-2.093014 -0.60685,-1.077469 -1.783396,-1.758627 -3.071405,-1.758627 -1.969166,0 -3.517253,1.548087 -3.517253,3.517254 0,2.006321 1.572856,3.579178 3.579177,3.579178 0.866929,0 1.684319,-0.322003 2.303554,-0.904083 0.483003,-0.458234 0.805005,-0.928853 0.990775,-1.486164 h -0.953621 c -0.383926,0.928852 -1.337548,1.548087 -2.365477,1.548087 -1.387086,0 -2.563633,-1.065084 -2.637941,-2.402631 z m -6.105655,-0.829775 c 0.247693,-1.300393 1.275623,-2.179706 2.563632,-2.179706 1.312778,0 2.315938,0.829774 2.625556,2.179706 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.38469696px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#16502d;fill-opacity:1;stroke-width:0.5543111px"
+               id="path4949" />
+            <path
+               d="m -67.120615,-76.510193 h -0.916468 v 1.201316 c -0.668774,-0.941237 -1.498548,-1.362317 -2.675095,-1.362317 -2.03109,0 -3.566792,1.535703 -3.566792,3.566793 0,2.018705 1.548087,3.529639 3.628716,3.529639 1.151777,0 1.894859,-0.383926 2.613171,-1.349932 v 1.18893 h 0.916468 z m -3.566793,0.681159 c 1.486163,0 2.650325,1.164161 2.650325,2.675094 0,1.535703 -1.139392,2.737018 -2.600786,2.737018 -1.535703,0 -2.712249,-1.201315 -2.712249,-2.749403 0,-1.473779 1.188931,-2.662709 2.66271,-2.662709 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.38469696px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#16502d;fill-opacity:1;stroke-width:0.5543111px"
+               id="path4951" />
+            <path
+               d="m -65.391788,-69.735764 h 4.706185 v -0.829774 h -3.789717 v -8.322517 h -0.916468 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.38469696px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#16502d;fill-opacity:1;stroke-width:0.5543111px"
+               id="path4953" />
+            <path
+               d="m -59.82003,-69.735764 h 0.916468 v -6.774429 h -0.916468 z m 0,-7.591819 h 0.916468 v -1.560472 h -0.916468 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.38469696px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#16502d;fill-opacity:1;stroke-width:0.5543111px"
+               id="path4955" />
+            <path
+               d="m -57.352765,-69.735764 h 0.916467 v -3.727793 c 0,-0.755467 0.09908,-1.151777 0.359156,-1.535703 0.359157,-0.520157 0.990776,-0.829774 1.709089,-0.829774 0.668773,0 1.275623,0.272463 1.647164,0.730697 0.322002,0.421079 0.445849,0.916467 0.445849,1.808165 v 3.554408 h 0.916468 v -3.554408 c 0,-1.139392 -0.161001,-1.746242 -0.594466,-2.328323 -0.532542,-0.668773 -1.349932,-1.052699 -2.303553,-1.052699 -0.891698,0 -1.610011,0.346772 -2.179707,1.040315 v -0.879314 h -0.916467 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.38469696px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#16502d;fill-opacity:1;stroke-width:0.5543111px"
+               id="path4957" />
+            <path
+               d="m -43.836419,-76.510193 h -0.916467 v 3.4801 c 0,0.829775 -0.123847,1.349932 -0.408695,1.771012 -0.383926,0.532542 -0.990776,0.842159 -1.696704,0.842159 -0.755466,0 -1.399471,-0.309617 -1.709088,-0.854544 -0.21054,-0.346771 -0.322002,-0.891698 -0.322002,-1.585241 v -3.653486 h -0.916468 v 3.653486 c 0,1.00316 0.173386,1.709088 0.532542,2.204476 0.507773,0.705928 1.325163,1.077469 2.340708,1.077469 1.052699,0 1.721473,-0.371541 2.179707,-1.213701 v 1.052699 h 0.916467 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.38469696px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#16502d;fill-opacity:1;stroke-width:0.5543111px"
+               id="path4959" />
+            <path
+               d="m -42.964262,-69.735764 h 1.040315 l 1.832935,-2.712248 1.82055,2.712248 h 1.0527 l -2.365477,-3.45533 2.365477,-3.319099 h -1.0527 l -1.82055,2.613171 -1.832935,-2.613171 h -1.040315 l 2.353093,3.319099 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.38469696px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#16502d;fill-opacity:1;stroke-width:0.5543111px"
+               id="path4961" />
+            <path
+               d="m -31.725538,-79.049056 c -2.625555,0 -4.842416,2.142553 -4.842416,4.681416 0,2.66271 2.154937,4.792878 4.842416,4.792878 2.650326,0 4.830032,-2.142553 4.830032,-4.730955 0,-2.613171 -2.179706,-4.743339 -4.830032,-4.743339 z m 0,0.84216 c 2.130168,0 3.90118,1.771011 3.90118,3.913564 0,2.117783 -1.771012,3.87641 -3.90118,3.87641 -2.154937,0 -3.913564,-1.758627 -3.913564,-3.925949 0,-2.093014 1.795781,-3.864025 3.913564,-3.864025 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.38469696px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#16502d;fill-opacity:1;stroke-width:0.5543111px"
+               id="path4963" />
+            <path
+               d="m -26.076375,-72.299396 c 0.08669,1.647165 1.2137,2.724634 2.860865,2.724634 1.585241,0 2.761787,-1.151777 2.761787,-2.712249 0,-0.805005 -0.334387,-1.523318 -0.916468,-1.956782 -0.371541,-0.272464 -0.755466,-0.445849 -1.696703,-0.730697 -0.829775,-0.247694 -1.102238,-0.359157 -1.349932,-0.569696 -0.260079,-0.23531 -0.433464,-0.644005 -0.433464,-1.065084 0,-0.916468 0.668773,-1.597626 1.585241,-1.597626 0.928852,0 1.572856,0.644004 1.63478,1.63478 h 0.953621 c -0.03715,-1.486164 -1.065084,-2.47694 -2.563632,-2.47694 -1.473779,0 -2.538863,1.040315 -2.538863,2.464555 0,0.63162 0.235309,1.23847 0.644004,1.622395 0.359157,0.346772 0.644005,0.483004 1.709089,0.805006 0.718312,0.222924 1.114622,0.39631 1.411855,0.60685 0.408695,0.284848 0.63162,0.755466 0.63162,1.312778 0,1.052699 -0.767852,1.82055 -1.808166,1.82055 -0.582081,0 -1.139392,-0.260079 -1.473779,-0.681158 -0.260079,-0.322002 -0.371541,-0.63162 -0.433464,-1.201316 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.38469696px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';fill:#16502d;fill-opacity:1;stroke-width:0.5543111px"
+               id="path4965" />
+          </g>
           <circle
              style="opacity:1;fill:none;fill-opacity:1;stroke:#4fc780;stroke-width:1.63928294;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:17.02488136;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle9618"
