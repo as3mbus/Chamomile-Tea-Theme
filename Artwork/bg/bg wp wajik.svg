@@ -17,7 +17,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 unknown"
-   sodipodi:docname="bg wp wajik.svg">
+   sodipodi:docname="bg wp wajik.svg"
+   inkscape:export-filename="/home/as3mbus/Chamomile-Tea-Theme/Artwork/bg/bg wp wajikpng.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <linearGradient
@@ -505,13 +508,13 @@
       <image
          sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Artwork/bg/desktop/Chamomile Theme/master/polo/Chamomile Theme/Assets/Polo Abu.png"
          xlink:href="desktop/Chamomile Theme/master/polo/Chamomile Theme/Assets/Polo Abu.png"
-         y="156.87695"
-         x="27.47434"
-         id="image8469"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
+         width="65.616669"
          height="53.710415"
-         width="65.616669" />
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image8469"
+         x="27.47434"
+         y="156.87695" />
     </mask>
     <mask
        id="mask9252"
@@ -519,13 +522,13 @@
       <image
          sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Artwork/bg/.././../Assets/Polo Abu.jpeg"
          xlink:href=".././../Assets/Polo Abu.jpeg"
-         y="2.4106174"
-         x="518.8526"
-         id="image9254"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
+         width="254"
          height="208.28"
-         width="254" />
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image9254"
+         x="518.8526"
+         y="2.4106174" />
     </mask>
     <mask
        id="mask8975"
@@ -533,13 +536,13 @@
       <image
          sodipodi:absref="/home/as3mbus/Chamomile-Tea-Theme/Artwork/bg/.././../Assets/Polo Abu.jpeg"
          xlink:href=".././../Assets/Polo Abu.jpeg"
-         y="155.15727"
-         x="549.92511"
-         id="image8977"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
+         width="254"
          height="208.28"
-         width="254" />
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image8977"
+         x="549.92511"
+         y="155.15727" />
     </mask>
     <mask
        id="mask10086-8"
@@ -1387,7 +1390,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7199333"
-     inkscape:cx="499.97566"
+     inkscape:cx="404.91383"
      inkscape:cy="141.58721"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
