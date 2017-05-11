@@ -14,12 +14,11 @@
    * Dark :
         * Theme = Working-Theme-Dark
         * icon = paper2
-
-LightDM GTK Greeter :
-	Theme	   = Working-Theme-Greet
-	Icons	   = Paper
-	Font	   = URW Gothic L Demi 11
-	background = wallpaper utama
+* LightDM GTK Greeter :
+  * Theme: Working-Theme-Greet
+  * Icons: Paper
+  * Font: URW Gothic L Demi 11
+  * Background: wallpaper utama
 
 #Plymouth New : 
 /Artwork/plymouth/
@@ -27,29 +26,37 @@ LightDM GTK Greeter :
 cek tealinuxos.plymouth
 pastikan image dir sama script file mengarah ke folder & file yang sesuai
 
-`[Plymouth Theme]
+file konfigurasi:
+```[Plymouth Theme]
 Name=tealinuxos
 Description=tealinuxos plymouth 
-ModuleName=script`
+ModuleName=script
+```
 
-`[script]
+```[script]
 ImageDir=/lib/plymouth/themes/tealinuxos
-ScriptFile=/lib/plymouth/themes/tealinuxos/tealinuxos.script`
+ScriptFile=/lib/plymouth/themes/tealinuxos/tealinuxos.script
+```
 
-sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/newtealinuxos/newtealinuxos.plymouth 300
+jalankan:
+```sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/newtealinuxos/newtealinuxos.plymouth 300
 sudo update-alternatives --config * pilih yang tadi baru di install default.plymouth                                                                                                                 
-
 sudo update-initramfs -u 
+```
 
 Ubiquity Slideshow :
-aku padamu
+masukkan di tempatnya
 
 Background bootloader:
 
 Logo tealinuxos di ubiquity (pas milih try / install):
+seperti tahun lalu
 
 logo install tealinuxos di desktop:
+seperti tahun lalu
 
 wallpaper default:
+Artwork/bg/bg wp web ver.png
 
-
+wallpaper lain:
+Artwork/bg/\*.png
